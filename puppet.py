@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 #
 # puppet.py - Download png files automatically 
 #
