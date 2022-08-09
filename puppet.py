@@ -2,8 +2,8 @@
 #
 # puppet.py - Download png files automatically 
 #
-# Made by: Copecofee Lovegood
-# Manutention: Copecofee Lovegood
+# Made by: Leandro
+# Manutention: Leandro
 #
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
 # This program was made to OSINT purpose. I was making a sock puppet to gathe users informations, but I would need to crete more than 10 puppets, and I 
@@ -14,9 +14,9 @@
 #
 # History:
 #
-#  v1.0 Copecofee:
+#  v1.0 Leandro:
 #    - Created the Script
-#  v1.1 17-07-2022, Copecofee:
+#  v1.1 17-07-2022, Leandro:
 #    - Adding comments
 #    - Making the script a program
 #    - Organazing the code
