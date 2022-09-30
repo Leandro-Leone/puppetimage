@@ -2,8 +2,8 @@
 #
 # puppet.py - Download png files automatically 
 #
-# Made by: leandro.sh
-# Manutention: leandro.sh
+# Made by: leandr0.sh
+# Manutention: leandr0.sh
 #
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
 # This program was made to OSINT purpose. I was making a sock puppet to gathe users informations, but I would need to crete more than 10 puppets, and I 
