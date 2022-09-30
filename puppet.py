@@ -14,9 +14,9 @@
 #
 # History:
 #
-#  v1.0 leandro.sh:
+#  v1.0 leandr0.sh:
 #    - Created the Script
-#  v1.1 17-07-2022, leandro.sh:
+#  v1.1 17-07-2022, leandr0.sh:
 #    - Adding comments
 #    - Making the script a program
 #    - Organazing the code
